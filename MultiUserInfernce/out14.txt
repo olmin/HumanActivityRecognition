@@ -1,0 +1,110 @@
+Executing with Num_Clusters: 112, Num_States: 112, CompressionRate: 2
+Executing UserId: 14
+
+Better result, 0/4
+Better result, 1/3
+Better result, 1/2
+Better result, 1/1
+Better result, 1/0
+              result Validation, 1/4
+Better result Validation, 1/4
+Better result, 1/2
+Better result, 2/1
+Better result, 0/0
+              result Validation, 0/5
+Better result, 1/2
+Better result, 2/0
+              result Validation, 2/3
+Better result Validation, 2/3
+Better result, 0/2
+Better result, 0/1
+Better result, 0/0
+              result Validation, 0/4
+Better result, 1/1
+Better result, 1/0
+              result Validation, 1/3
+Better result Validation, 1/3
+Better result, 0/2
+Better result, 1/1
+Better result, 0/0
+              result Validation, 0/3
+Better result Validation, 0/3
+Better result, 1/2
+Better result, 1/1
+Better result, 2/0
+              result Validation, 2/4
+Better result, 1/3
+Better result, 1/2
+Better result, 1/1
+Better result, 1/0
+              result Validation, 1/4
+Better result, 2/0
+              result Validation, 2/4
+Better result, 1/3
+Better result, 2/2
+Better result, 2/0
+              result Validation, 2/1
+Better result Validation, 2/1
+Better result, 1/2
+Better result, 0/1
+Better result, 1/0
+              result Validation, 1/5
+Better result, 2/3
+Better result, 1/1
+Better result, 1/0
+              result Validation, 1/3
+Better result, 1/3
+Better result, 1/2
+Better result, 1/1
+Better result, 0/1
+Better result, 1/0
+              result Validation, 1/3
+Better result, 0/3
+Better result, 0/1
+Better result, 0/0
+              result Validation, 0/3
+Better result, 0/4
+Better result, 1/1
+Better result, 0/0
+              result Validation, 0/2
+Better result, 2/1
+Better result, 1/1
+              result Validation, 2/7
+Better result, 2/2
+Better result, 0/2
+Better result, 1/1
+Better result, 2/0
+              result Validation, 2/3
+Better result, 0/1
+Better result, 0/0
+              result Validation, 0/5
+Better result, 0/2
+Better result, 1/1
+Better result, 0/0
+              result Validation, 0/5
+Better result, 1/2
+Better result, 1/1
+Better result, 0/1
+              result Validation, 1/5
+Better result, 1/1
+Better result, 1/0
+              result Validation, 1/5
+Better result, 0/4
+Better result, 2/0
+Better result, 1/0
+              result Validation, 1/3
+Better result, 1/1
+Better result, 0/1
+              result Validation, 1/3
+Better result, 1/4
+Better result, 2/2
+Better result, 1/1
+Better result, 0/1
+              result Validation, 1/3
+Better result, 1/2
+Better result, 2/1
+Better result, 3/0
+              result Validation, 3/4
+ERROR: SQLException in main.cpp (main) on line 394
+ERROR: Duplicate entry '112-2-80-20-14' for key 'PRIMARY' (MySQL error code: 1062, SQLState: 23000)
+	Rolling back until the last save point "SAVEPT1" ..
