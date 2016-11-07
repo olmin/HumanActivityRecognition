@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="Clustering" displayName="Clustering" projectFiles="true">
+      <logicalFolder name="dist" displayName="dist" projectFiles="true">
+        <logicalFolder name="Debug" displayName="Debug" projectFiles="true">
+          <logicalFolder name="GNU-Linux-x86"
+                         displayName="GNU-Linux-x86"
+                         projectFiles="true">
+            <itemPath>/home/olmin/NetBeansProjects/Clustering/dist/Debug/GNU-Linux-x86/clustering</itemPath>
+            <itemPath>/home/olmin/NetBeansProjects/Clustering/dist/Debug/GNU-Linux-x86/exeSeveralTimes</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/BehaviourSequence.cpp</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/BehaviourSequence.h</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/ClusterData.cpp</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/ClusterData.h</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/Commons.cpp</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/Commons.h</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/KMeans.cpp</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/KMeans.h</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/Makefile</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/PAA.cpp</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/PAA.h</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/SimpleSkeleton.h</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/config.cpp</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/config.h</itemPath>
+      <itemPath>/home/olmin/NetBeansProjects/Clustering/core</itemPath>
+    </logicalFolder>
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Automata.h</itemPath>
+      <itemPath>OctaveAutomata.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <itemPath>Automata.cpp</itemPath>
+      <itemPath>OctaveAutomata.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../Clustering</Elem>
+    <Elem>../Inference</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>/usr/lib/octave-3.2.4</pElem>
+          </linkerAddLib>
+          <linkerDynSerch>
+            <pElem>/usr/lib/atlas-base</pElem>
+          </linkerDynSerch>
+          <linkerLibItems>
+            <linkerLibLibItem>mysqlcppconn</linkerLibLibItem>
+            <linkerLibLibItem>f77blas</linkerLibLibItem>
+            <linkerLibLibItem>cruft</linkerLibLibItem>
+            <linkerLibLibItem>octave</linkerLibLibItem>
+            <linkerLibLibItem>octinterp</linkerLibLibItem>
+            <linkerLibLibItem>lapack_atlas</linkerLibLibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+    </conf>
+  </confs>
+</configurationDescriptor>

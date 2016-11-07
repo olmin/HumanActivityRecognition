@@ -1,0 +1,11 @@
+#!/bin/bash
+#LD_LIBRARY_PATH=/usr/lib/octave-3.2.4
+#export LD_LIBRARY_PATH=/usr/lib/octave-3.2.4
+
+echo Start
+./dist/Debug/GNU-Linux-x86/behaviourinferenceautomata 49 2 5
+./dist/Debug/GNU-Linux-x86/behaviourinferenceautomata 49 4 5
+./dist/Debug/GNU-Linux-x86/behaviourinferenceautomata 70 2 5
+./dist/Debug/GNU-Linux-x86/behaviourinferenceautomata 70 4 5
+
+echo End
