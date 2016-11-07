@@ -1,0 +1,33 @@
+#!/bin/bash
+
+echo Start
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 14 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 14 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 14 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 21 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 21 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 21 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 28 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 28 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 28 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 35 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 35 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 35 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 49 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 49 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 49 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 70 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 70 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 70 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 84 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 84 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 84 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 98 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 98 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 98 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 112 2
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 112 3
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 112 4
+./dist/Debug/GNU-Linux-x86/behaviourinferenceolmoautomata 126 2
+
+echo End
