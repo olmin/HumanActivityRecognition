@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo Start
+./dist/Debug/GNU-Linux-x86/inference 21 2
+./dist/Debug/GNU-Linux-x86/inference 21 3
+./dist/Debug/GNU-Linux-x86/inference 21 4
+./dist/Debug/GNU-Linux-x86/inference 35 2
+./dist/Debug/GNU-Linux-x86/inference 35 3
+./dist/Debug/GNU-Linux-x86/inference 35 4
+./dist/Debug/GNU-Linux-x86/inference 49 2
+./dist/Debug/GNU-Linux-x86/inference 49 3
+./dist/Debug/GNU-Linux-x86/inference 49 4
+./dist/Debug/GNU-Linux-x86/inference 70 2
+./dist/Debug/GNU-Linux-x86/inference 70 3
+./dist/Debug/GNU-Linux-x86/inference 70 4
+echo End
