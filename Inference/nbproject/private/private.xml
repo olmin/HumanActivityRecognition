@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/home/olmin/NetBeansProjects/Clustering/Commons.h</file>
+        <file>file:/home/olmin/NetBeansProjects/Clustering/Commons.cpp</file>
+        <file>file:/home/olmin/NetBeansProjects/Clustering/config.cpp</file>
+        <file>file:/home/olmin/NetBeansProjects/Clustering/config.h</file>
+        <file>file:/home/olmin/NetBeansProjects/Inference/main.cpp</file>
+        <file>file:/home/olmin/NetBeansProjects/Inference/HMM.cpp</file>
+        <file>file:/home/olmin/NetBeansProjects/Inference/KFoldCrossValidation.cpp</file>
+        <file>file:/home/olmin/NetBeansProjects/Clustering/SimpleSkeleton.h</file>
+        <file>file:/home/olmin/NetBeansProjects/BehaviourInferenceOlmoAutomata/main.cpp</file>
+        <file>file:/home/olmin/NetBeansProjects/Inference/HMM.h</file>
+        <file>file:/home/olmin/NetBeansProjects/BehaviourInferenceOlmoAutomata/OlmoAutomata.cpp</file>
+        <file>file:/home/olmin/NetBeansProjects/BehaviourInferenceOlmoAutomata/OlmoAutomata.h</file>
+        <file>file:/home/olmin/NetBeansProjects/Clustering/BehaviourSequence.h</file>
+    </open-files>
+</project-private>
