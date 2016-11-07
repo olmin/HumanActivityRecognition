@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo Start
+./clustering 14 2
+./clustering 14 4
+./clustering 14 6
+./clustering 21 2
+./clustering 21 4
+./clustering 21 6
+./clustering 28 2
+./clustering 28 4
+./clustering 28 6
+./clustering 35 2
+./clustering 35 4
+./clustering 35 6
+./clustering 49 2
+./clustering 49 4
+./clustering 49 6
+./clustering 70 2
+./clustering 70 4
+./clustering 70 6
+echo End

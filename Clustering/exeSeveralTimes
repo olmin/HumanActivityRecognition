@@ -1,0 +1,25 @@
+#!/bin/bash
+
+echo Start
+#./dist/Debug/GNU-Linux-x86/clustering 21 2
+#./dist/Debug/GNU-Linux-x86/clustering 21 3
+#./dist/Debug/GNU-Linux-x86/clustering 21 4
+#./dist/Debug/GNU-Linux-x86/clustering 35 2
+#./dist/Debug/GNU-Linux-x86/clustering 35 3
+#./dist/Debug/GNU-Linux-x86/clustering 35 4
+#./dist/Debug/GNU-Linux-x86/clustering 49 2
+#./dist/Debug/GNU-Linux-x86/clustering 49 3
+#./dist/Debug/GNU-Linux-x86/clustering 49 4
+#./dist/Debug/GNU-Linux-x86/clustering 70 2
+#./dist/Debug/GNU-Linux-x86/clustering 70 3
+#./dist/Debug/GNU-Linux-x86/clustering 70 4
+#./dist/Debug/GNU-Linux-x86/clustering 84 2
+#./dist/Debug/GNU-Linux-x86/clustering 84 3
+#./dist/Debug/GNU-Linux-x86/clustering 84 4
+#./dist/Debug/GNU-Linux-x86/clustering 98 2
+#./dist/Debug/GNU-Linux-x86/clustering 98 3
+#./dist/Debug/GNU-Linux-x86/clustering 98 4
+./dist/Debug/GNU-Linux-x86/clustering 112 2
+./dist/Debug/GNU-Linux-x86/clustering 112 3
+./dist/Debug/GNU-Linux-x86/clustering 112 4
+echo End
