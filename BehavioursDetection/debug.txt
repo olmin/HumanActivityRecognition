@@ -1,0 +1,21 @@
+[DBG] "Initializing OpenNI driver" 
+Module filename: /tmp/qt_temp.T23492
+DBG: Loading module: ../lib/libnimMockNodes.so
+DBG: Working directory: /home/olmin/kinect/proyectos/test_nestk/build/bin
+DBG: Loading module: ../lib/libnimCodecs.so
+DBG: Working directory: /home/olmin/kinect/proyectos/test_nestk/build/bin
+DBG: Loading module: ../lib/libnimRecorder.so
+DBG: Working directory: /home/olmin/kinect/proyectos/test_nestk/build/bin
+DBG: Loading module: ../lib/libXnDevicesSensorV2.so
+DBG: Working directory: /home/olmin/kinect/proyectos/test_nestk/build/bin
+DBG: Loading module: ../lib/libXnDeviceFile.so
+DBG: Working directory: /home/olmin/kinect/proyectos/test_nestk/build/bin
+DBG: Loading module: ../lib/libXnVFeatures.so
+DBG: Working directory: /home/olmin/kinect/proyectos/test_nestk/build/bin
+DBG: Loading module: ../lib/libXnVHandGenerator.so
+DBG: Working directory: /home/olmin/kinect/proyectos/test_nestk/build/bin
+[DBG] "Found device: vendor PrimeSense name SensorKinect" 
+[DBG] "[Kinect bf983790] connecting" 
+[DBG] "device: vendor PrimeSense name SensorKinect, instance Device1" 
+Setting resolution to VGA
+Warning: USB events thread - failed to set priority. This might cause loss of data...
